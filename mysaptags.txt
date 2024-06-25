@@ -1,0 +1,6 @@
+<script type='text/javascript' src='file://%INSTALLDIR%/android_sap/sapbgsound.js' pages='*' /> 
+<script type='text/javascript' src='file://%INSTALLDIR%/android_sap/sapcustomview.js' pages='*' />
+<script type='text/javascript' src='file://%INSTALLDIR%/android_sap/sapconfigreader.js' pages='*' />
+<script type='text/javascript' src='file://%INSTALLDIR%/android_sap/RightHandedRotation.js' pages='*' /> 
+
+
